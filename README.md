@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Backend%20%26%20Mobile%20Developer;Node.js%20%7C%20React%20Native;&font=Fira%20Code&center=true&width=600&height=45&color=0A66C2&vCenter=true&pause=1200&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer;Backend%20%26%20Mobile%20Developer;&font=Fira%20Code&center=true&width=600&height=45&color=0A66C2&vCenter=true&pause=1200&size=22" />
   </a>
 </p>
 
